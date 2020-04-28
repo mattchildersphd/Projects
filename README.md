@@ -8,9 +8,9 @@ Using responses to the "likes" and "dislikes" questions about the presidential c
 [Notebook: "nlp_openended_anes.ipynb"](https://github.com/slackademic/Projects/blob/master/nlp_openended_anes.ipynb)
 
 Data for the project are available from the American National Election Studies. ANES makes transcripts for open-ended   question responses available separately from the rest of the survey data. The data are publicly available, but you must   create an account with the ANES before downloading the data. Links for each year's data are below:
-[2016 survey data and documentation](https://electionstudies.org/data-center/2016-time-series-study/)
-[2012 survey data and documentation](https://electionstudies.org/data-center/2012-time-series-study/)
-[2008 survey data and documentation](https://electionstudies.org/data-center/2008-time-series-study/)
+- [2016 survey data and documentation](https://electionstudies.org/data-center/2016-time-series-study/)
+- [2012 survey data and documentation](https://electionstudies.org/data-center/2012-time-series-study/)
+- [2008 survey data and documentation](https://electionstudies.org/data-center/2008-time-series-study/)
 
 [__Analyzing Requests for Government Services From Miami-Dade County Residents Using Unsupervised Learning Methods__](https://github.com/slackademic/Projects/blob/master/unsupervised_learning_capstone.ipynb)
 I explored how local government segments its constituents by comparing how well several clustering algorithms perform in grouping data on requests for public services in Miami-Dade County (K-means, DBSCAN, Gaussian Mixture Models). Data for the project are available from the [Miami-Dade County Open Data Portal (311 Service Requests)](https://gis-mdc.opendata.arcgis.com/datasets/311-service-requests-miami-dade-county-2019).
